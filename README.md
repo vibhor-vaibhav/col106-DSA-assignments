@@ -1,1 +1,1 @@
-# col106-DSA-assignments
+# Array, stacks and queues assignment
